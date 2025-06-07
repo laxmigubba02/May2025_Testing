@@ -85,4 +85,5 @@ The **Path Variable** is used to define the path of the Java source file.
 ### JVM (Java Virtual Machine)
 
 - Executes Java bytecode.
-- Provides platform independence by interpreting `.class` files.
+- Provides platform independence by interpreting `.class` files. 
+-Jvm is important .
